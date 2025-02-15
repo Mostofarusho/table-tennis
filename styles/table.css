@@ -1,0 +1,19 @@
+.heading{
+    text-align: center;
+}
+table {
+    border-collapse:collapse;
+}
+
+td,
+th {
+    border: 1px solid black;
+    padding: 5px 10px;
+}
+.caption{
+    font-size: larger;
+    font-style: normal;
+}
+.table{
+    margin: auto;
+}
